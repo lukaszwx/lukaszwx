@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Lucas Neves | Estudante de Análise e Desenvolvimento de Software. Minha paixão por transformar desafios em soluções eficientes me impulsiona a explorar as mais diversas tecnologias. No meu perfil, você encontra um pouco da minha jornada de aprendizado e os projetos que me ajudam a aprimorar minhas habilidades e a construir o futuro da tecnologia. Atualmente estou cursando Analise e Desenvolvimento de Sistenas na UNINASSAU. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e de aprimorar minhas habilidades
+Lucas Neves | Estudante de Análise e Desenvolvimento de Software. Minha paixão por transformar desafios em soluções eficientes me impulsiona a explorar as mais diversas tecnologias. No meu perfil, você encontra um pouco da minha jornada de aprendizado e os projetos que me ajudam a aprimorar minhas habilidades e a construir o futuro da tecnologia. Atualmente estou cursando Analise e Desenvolvimento de Sistenas na UNINASSAU. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e de aprimorar minhas habilidades.
 
 Meu Instagram "[@xwz.lucs]()
 
