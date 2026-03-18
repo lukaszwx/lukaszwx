@@ -1,4 +1,4 @@
-# 🚀 Lucas Neves
+# 🐧 Lucas Neves
 
 **Desenvolvedor Full Stack em Formação | Estudante de ADS**
 
@@ -50,9 +50,7 @@ Sou apaixonado por transformar desafios complexos em soluções digitais elegant
 ## 📫 Contato & Redes
 
 <div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/xwz.lucs/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+  
 </div>
 
 ---
@@ -68,6 +66,6 @@ Sou apaixonado por transformar desafios complexos em soluções digitais elegant
 ---
 
 <div align="center">
-  <i>✨ "Transformando ideias em soluções digitais eficientes." ✨</i>
+  <i>🐧</i>
 </div>
 
