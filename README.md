@@ -1,8 +1,11 @@
-# 🐧 Lucas Neves
+# ☕ Lucas Neves
 
-**Desenvolvedor Full Stack em Formação | Estudante de ADS**
+**Desenvolvedor em Formação | Estudante de ADS**
 
-Sou apaixonado por transformar desafios complexos em soluções digitais elegantes e eficientes. Estou constantemente aprendendo e explorando novas tecnologias para construir projetos que fazem a diferença. Aqui você encontra meus projetos, aprendizados e evolução profissional.
+Não curto complicar.
+gosto de resolver.
+Aprendendo, quebrando a cabeça e construindo projetos que funcionam de verdade.
+Se quiser ver evolução real de um dev, tá tudo aqui
 
 ---
 
@@ -66,6 +69,6 @@ Sou apaixonado por transformar desafios complexos em soluções digitais elegant
 ---
 
 <div align="center">
-  <i>🐧</i>
+  <i>☕</i>
 </div>
 
