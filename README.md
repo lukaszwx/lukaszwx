@@ -1,11 +1,6 @@
 # ☕ Lucas Neves
 
-**Desenvolvedor em Formação | Estudante de ADS**
-
-Não curto complicar.
-gosto de resolver.
-Aprendendo, quebrando a cabeça e construindo projetos que funcionam de verdade.
-Se quiser ver evolução real de um dev, tá tudo aqui
+**Desenvolvedor em Formação👾**
 
 ---
 
