@@ -37,6 +37,17 @@
 
 ---
 
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 🎯 Foco Atual
 - 🔭 Explorando **React.js** e **TypeScript** para projetos front-end modernos  
 - 🌱 Aprendendo **Java** e **Clean Code** para back-end sólido  
@@ -66,4 +77,3 @@
 <div align="center">
   <i>☕</i>
 </div>
-
