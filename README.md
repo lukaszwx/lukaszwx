@@ -37,7 +37,7 @@
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contribution Flow
 
 <div align="center">
   <picture>
@@ -50,9 +50,10 @@
 
 ## 🎯 Foco Atual
 - 🔭 Explorando **React.js** e **TypeScript** para projetos front-end modernos  
-- 🌱 Aprendendo **Java** e **Clean Code** para back-end sólido  
-- 💡 Interessa-me **Arquitetura de Software** e boas práticas de código  
-- 🚀 Construindo projetos **full-stack funcionais e profissionais**
+- 🌱 Aprimorando **JavaScript** e **Clean Code** para back-end e Front-end sólido  
+- 💡 Me interesso **Arquitetura de Software** 
+- 🚀 Construindo projetos **elegantes e diferentes**
+- ✍️Designer nas horas vagas
 
 ---
 
