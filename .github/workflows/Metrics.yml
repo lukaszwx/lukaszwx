@@ -24,6 +24,8 @@ jobs:
           plugin_languages_limit: 8
           plugin_activity: yes
           plugin_activity_limit: 5
+          output_action: commit
+          committer_branch: output
           extras_css: |
             /* ── AZZURE SYSTEM :: METRICS SKIN ── */
 
