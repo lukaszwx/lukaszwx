@@ -130,7 +130,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/metrics.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/Metrics.svg"/>
 
 </div>
 
@@ -144,13 +144,13 @@
 
 <br/>
 
-```diff
+diff
 + 🔭 Explorando React.js e TypeScript para projetos front-end modernos
 + 🌱 Aprimorando JavaScript e Clean Code para back-end e Front-end sólido
 + 💡 Me interesso em Arquitetura de Software
 + 🚀 Construindo projetos elegantes e diferentes
 + ✍️ Designer nas horas vagas
-```
+
 
 ---
 
