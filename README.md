@@ -144,32 +144,47 @@
 
 <br/>
 
-diff
+```diff
 + 🔭 Explorando React.js e TypeScript para projetos front-end modernos
 + 🌱 Aprimorando JavaScript e Clean Code para back-end e Front-end sólido
-+ 💡 Me interesso Arquitetura de Software
++ 💡 Me interesso em Arquitetura de Software
 + 🚀 Construindo projetos elegantes e diferentes
 + ✍️ Designer nas horas vagas
+```
 
 ---
 
-<div align="center">💡 Featured Projects
+<div align="center">
 
-</div>Projeto| Descrição| Link
-✨ Portfólio Interativo| Landing page com animações GSAP e design responsivo| "Repositório" (https://github.com/lukaszwx/landing-page)
-🏦 Sistema Bancário C| Sistema simples em C com cadastro, consulta e movimentações| "Repositório" (https://github.com/lukaszwx/sistema-bancario)
-📋 Gerenciador de Tarefas| App de tarefas com prioridade, remoção e marcação de concluídas| "Repositório" (https://github.com/lukaszwx/gerenciador-tarefas)
+# 💡 Featured Projects
+
+</div>
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| ✨ Portfólio Interativo | Landing page com animações GSAP e design responsivo | [Repositório](https://github.com/lukaszwx/landing-page) |
+| 🏦 Sistema Bancário C | Sistema simples em C com cadastro, consulta e movimentações | [Repositório](https://github.com/lukaszwx/sistema-bancario) |
+| 📋 Gerenciador de Tarefas | App de tarefas com prioridade, remoção e marcação de concluídas | [Repositório](https://github.com/lukaszwx/gerenciador-tarefas) |
 
 ---
 
-<div align="center">🌐 Contact & Socials
+<div align="center">
 
-<br/><a href="https://github.com/lukaszwx">
+# 🌐 Contact & Socials
+
+<br/>
+
+<a href="https://github.com/lukaszwx">
   <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
+</a>
+<a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
-</a></div>---
+</a>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050816,25:0b1120,50:0ea5e9,75:38bdf8,100:7dd3fc"/></div>
+</div>
 
+---
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050816,25:0b1120,50:0ea5e9,75:38bdf8,100:7dd3fc"/>
+</div>
