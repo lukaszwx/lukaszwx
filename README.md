@@ -83,7 +83,7 @@
 
 <br/>
 
-```diff
+diff
 + 🔭 Explorando React.js e TypeScript para projetos front-end modernos
 + 🌱 Aprimorando JavaScript e Clean Code para back-end e Front-end sólido
 + 💡 Me interesso Arquitetura de Software
@@ -108,4 +108,4 @@
 </a></div>---
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=footer"/></div>
-```
+
