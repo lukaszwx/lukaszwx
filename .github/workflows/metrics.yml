@@ -1,17 +1,13 @@
 name: Generate Azzure Metrics
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
@@ -19,25 +15,113 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lukaszwx
           filename: metrics.svg
-
           theme: terminal
           template: classic
           base: header, activity, community, repositories, metadata
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
           plugin_languages: yes
           plugin_languages_limit: 8
-
           plugin_activity: yes
           plugin_activity_limit: 5
-
           extras_css: |
+            /* ── AZZURE SYSTEM :: METRICS SKIN ── */
+
             :root {
-              --color-calendar-graph-day-bg: #050816;
-              --color-calendar-graph-day-L1-bg: #0ea5e9;
-              --color-calendar-graph-day-L2-bg: #38bdf8;
-              --color-calendar-graph-day-L3-bg: #60a5fa;
-              --color-calendar-graph-day-L4-bg: #93c5fd;
+              --az-bg:        #050816;
+              --az-surface:   #0b1120;
+              --az-border:    #0ea5e910;
+              --az-glow:      #38bdf8;
+              --az-glow-soft: #38bdf820;
+              --az-text:      #e2e8f0;
+              --az-muted:     #64748b;
+              --az-accent:    #7dd3fc;
+            }
+
+            * { box-sizing: border-box; }
+
+            svg {
+              background: var(--az-bg) !important;
+              font-family: 'JetBrains Mono', 'Fira Code', monospace !important;
+            }
+
+            text, tspan {
+              fill: var(--az-text) !important;
+              font-family: 'JetBrains Mono', monospace !important;
+            }
+
+            .section-title text,
+            .header text {
+              fill: var(--az-glow) !important;
+              font-size: 11px !important;
+              letter-spacing: 0.15em !important;
+              text-transform: uppercase !important;
+            }
+
+            rect.field-bg,
+            rect.section-bg,
+            .field rect {
+              fill:   var(--az-surface) !important;
+              rx:     6px !important;
+              stroke: var(--az-glow) !important;
+              stroke-width: 0.4px !important;
+              filter: drop-shadow(0 0 6px #38bdf818) !important;
+            }
+
+            rect.progress-bg,
+            rect[class*="progress-bg"] {
+              fill:   var(--az-border) !important;
+              rx:     3px !important;
+            }
+
+            rect.progress,
+            rect[class*="progress"]:not([class*="bg"]) {
+              fill:   var(--az-glow) !important;
+              rx:     3px !important;
+              filter: drop-shadow(0 0 4px #38bdf870) !important;
+            }
+
+            rect[class*="contribution-"] {
+              rx: 2px !important;
+            }
+            rect.color-empty {
+              fill: #0b1120 !important;
+              stroke: #38bdf808 !important;
+              stroke-width: 0.5px !important;
+            }
+            rect.color-scale-1 { fill: #0c4a6e !important; }
+            rect.color-scale-2 { fill: #0369a1 !important; }
+            rect.color-scale-3 { fill: #0ea5e9 !important; filter: drop-shadow(0 0 3px #0ea5e980) !important; }
+            rect.color-scale-4 { fill: #38bdf8 !important; filter: drop-shadow(0 0 5px #38bdf8aa) !important; }
+
+            .octicon { fill: var(--az-glow) !important; }
+
+            .field-value-muted text,
+            text.muted { fill: var(--az-muted) !important; }
+
+            line.sep, line[class*="sep"] {
+              stroke: var(--az-glow) !important;
+              stroke-width: 0.3px !important;
+              stroke-dasharray: 2 4 !important;
+              opacity: 0.4 !important;
+            }
+
+            circle[class*="language"] {
+              filter: drop-shadow(0 0 3px currentColor) !important;
+            }
+
+            .avatar circle,
+            image + circle {
+              stroke: var(--az-glow) !important;
+              stroke-width: 1.5px !important;
+              fill: none !important;
+              filter: drop-shadow(0 0 8px #38bdf850) !important;
+            }
+
+            svg > rect:first-of-type {
+              fill:   var(--az-bg) !important;
+              stroke: var(--az-glow) !important;
+              stroke-width: 0.6px !important;
+              rx:     10px !important;
+              filter: drop-shadow(0 0 20px #38bdf815) !important;
             }
