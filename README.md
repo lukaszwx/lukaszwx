@@ -1,48 +1,20 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lucas%20Neves&fontSize=42&fontAlignY=40&color=0:050816,50:0b1120,100:10b981&fontColor=f3f4f6&animation=fadeIn"/>
+
 # ☕ Lucas Neves
 
-### **Desenvolvedor em Formação 👾**
+### Desenvolvedor em Formação 👾
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2B+TypeScript;UI%2FUX+Lover;Building+Elegant+Projects" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Tecnologias & Ferramentas
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2B+TypeScript;Building+Premium+Interfaces;Clean+UI+%2B+Modern+Experiences;Azzure+Systems+Online"/>
 
 <br/>
 
-<div align="center">
-
-### 💻 Frontend & Mobile
-
-<img alt="HTML5" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="TypeScript" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img alt="React" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Bancos de Dados
-
-<img alt="C" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img alt="Java" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img alt="Python" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<br/><br/>
-
-### 🔧 Ferramentas & DevOps
-
-<img alt="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="GitHub" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img alt="VS Code" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 
 </div>
 
@@ -50,13 +22,99 @@
 
 <div align="center">
 
-## 📈 Estatísticas do GitHub
+# 🛠️ Tecnologias & Ferramentas
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=ffffff&count_private=true"/>
+<table>
+<tr>
+<td align="center" width="120">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=ffffff"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
+
+### HTML5
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+
+### CSS3
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+
+### JavaScript
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/>
+
+### TypeScript
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+
+### React
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+
+### Python
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
+
+### Java
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
+
+### C
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+
+### Git
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+
+### VS Code
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -64,12 +122,17 @@
 
 <div align="center">
 
-## 🔥 Contribution Flow
+# 📈 GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/github-contribution-grid-snake-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=f3f4f6&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=f3f4f6"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&bg_color=0d1117&color=10b981&line=10b981&point=f3f4f6&area=true&hide_border=true"/>
 
 </div>
 
@@ -77,7 +140,17 @@
 
 <div align="center">
 
-## 🎯 Foco Atual
+# 🌌 Contribution Flow
+
+<img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 Foco Atual
 
 </div>
 
@@ -105,7 +178,8 @@ diff
 
 <br/><a href="https://github.com/lukaszwx">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a></div>---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=120&section=footer"/></div>
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:0b1120,100:10b981"/></div>
