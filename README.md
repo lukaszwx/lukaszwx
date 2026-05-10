@@ -30,6 +30,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
 <br/><br/>
@@ -59,6 +60,7 @@
 <br/><br/>
 <b>React</b>
 </td>
+
 </tr>
 </table>
 
@@ -66,6 +68,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
 <br/><br/>
@@ -95,6 +98,7 @@
 <br/><br/>
 <b>VS Code</b>
 </td>
+
 </tr>
 </table>
 
@@ -167,4 +171,5 @@ diff
 </a></div>---
 
 <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050816,25:0b1120,50:0ea5e9,75:38bdf8,100:7dd3fc"/></div>
+
 
