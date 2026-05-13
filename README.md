@@ -88,8 +88,12 @@
 
 <br/>
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=020510&title_color=38BDF8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=0369a1&count_private=true&include_all_commits=true"/>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=020510&title_color=38BDF8&text_color=cbd5e1&langs_count=8"/>
+<a href="https://github.com/lukaszwx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=020510&title_color=38BDF8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=0369a1&count_private=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/lukaszwx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=020510&title_color=38BDF8&text_color=cbd5e1&langs_count=8"/>
+</a>
 
 <br/><br/>
 
@@ -195,7 +199,7 @@
 
 <br/>
 
-
+<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:38bdf8,30:0ea5e9,60:0369a1,85:040d1f,100:020510"/>
 
 </div>
