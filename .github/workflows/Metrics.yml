@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: lukaszwx
-          filename: metrics.svg
+          filename: Metrics.svg
           theme: terminal
           template: classic
           base: header, activity, community, repositories, metadata
@@ -29,7 +29,7 @@ jobs:
           output_action: commit
           committer_branch: output
           extras_css: |
-            /* ── AZZURE SYSTEM :: METRICS SKIN ── */
+            /* â”€â”€ AZZURE SYSTEM :: METRICS SKIN â”€â”€ */
 
             :root {
               --az-bg:        #050816;
