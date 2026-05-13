@@ -111,14 +111,14 @@
 
 <br/>
 
-<!-- CONTRIBUTION MATRIX -->
+<!-- 3D CONTRIBUTION CALENDAR -->
 <div align="center">
 
-## ◈ &nbsp;CONTRIBUTION MATRIX&nbsp; ◈
+## ◈ &nbsp;3D CONTRIBUTION CALENDAR&nbsp; ◈
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/Metrics.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </div>
 
