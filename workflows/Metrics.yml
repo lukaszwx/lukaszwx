@@ -1,33 +1,163 @@
-name: Generate 3D Contribution Calendar
+Nome: Gerar métricas do Azure
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+sobre:
+  agendar:
+    - cron: "0 3 * * *"
+  despacho de fluxo de trabalho:
 
-permissions:
-  contents: write
+permissões:
+  Conteúdo: escrever
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
+concorrência:
+  grupo: azzure-metrics
+  cancelamento em andamento: verdadeiro
 
-    steps:
-      - uses: actions/checkout@v3
+empregos:
+  métricas:
+    executa em: ubuntu-latest
 
-      - name: Generate 3D Contrib SVG
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          USERNAME: lukaszwx
-        with:
-          MAX_REPOS: 100
+    passos:
+      - nome: Gerar SVG de métricas do Azure
+        utiliza: lowlighter/metrics@latest
+        com:
+          token: ${{ secrets.METRICS_TOKEN }}
+          Usuário: lukaszwx
 
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com",
-          git add -A
-          git commit -m "chore: update 3D contribution calendar" || echo "nothing to commit"
-          git push
+          Nome do arquivo: Metrics.svg
+          ação_de_saída: commit
+          committer_branch: saída
+          committer_message: "tarefa: atualizar métricas do Azzure"
+
+          modelo: clássico
+          config_timezone: America/Fortaleza
+          config_animations: sim
+          config_display: grande
+
+          base: cabeçalho, repositórios
+
+          plugin_isocalendar: sim
+          plugin_isocalendar_duration: ano completo
+
+          plugin_languages: sim
+          limite_de_idiomas_do_plugin: 8
+          plugin_languages_sections: mais usados
+          detalhes_dos_idiomas_do_plugin: porcentagem
+          limite_de_idiomas_do_plugin: 0%
+
+          plugin_habits: sim
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: sim
+          plugin_habits_charts: sim
+
+          extras_css: |
+            :raiz {
+              --az-bg: #050816;
+              --az-bg2: #020617;
+              --az-superfície: #0b1120;
+              --az-border: #38bdf830;
+              --az-glow: #38bdf8;
+              --az-accent: #7dd3fc;
+              --az-text: #e2e8f0;
+              --az-muted: #94a3b8;
+            }
+
+            svg {
+              fundo:
+                gradiente-radial(círculo em 15% 0%, #38bdf81a 0%, transparente 35%),
+                gradiente radial (círculo em 88% 10%, #0ea5e914 0%, transparente 30%),
+                gradiente linear (160 graus, var (--az-bg) 0%, var (--az-bg2) 100%) !importante;
+              font-family: "JetBrains Mono", "Fira Code", monospace !important;
+            }
+
+            svg > retângulo:primeiro-do-tipo {
+              preenchimento: transparente !importante;
+              traço: var(--az-border) !importante;
+              largura do traço: 0,8px !importante;
+              rx: 14px !important;
+              filtro: sombra-projetada(0 0 22px #38bdf81a) !importante;
+            }
+
+            texto, tspan {
+              preencher: var(--az-text) !importante;
+              família de fontes: "JetBrains Mono", monoespaçado !importante;
+            }
+
+            texto.silenciado, .field-value-muted texto {
+              preencher: var(--az-muted) !importante;
+            }
+
+            .header texto, .section-title texto {
+              preencher: var(--az-glow) !importante;
+              peso da fonte: 700 !importante;
+              espaçamento entre letras: 0,14em !importante;
+              text-transform: uppercase !important;
+              filtro: sombra-projetada(0 0 6px #38bdf855) !importante;
+            }
+
+            rect.field-bg, rect.section-bg, .field rect {
+              preenchimento: #0b1120cc !importante;
+              traço: var(--az-border) !importante;
+              largura-do-traço: 0,5px !importante;
+              rx: 8px !important;
+              filtro: sombra-projetada(0 0 8px #38bdf810) !importante;
+            }
+
+            rect.progress-bg, rect[class*="progress-bg"] {
+              preenchimento: #0f172a !importante;
+              rx: 4px !importante;
+            }
+
+            rect.progress, rect[class*="progress"]:not([class*="bg"]) {
+              preencher: var(--az-glow) !importante;
+              rx: 4px !importante;
+              filtro: sombra-projetada(0 0 5px #38bdf888) !importante;
+            }
+
+            linha.sep, linha[classe*="sep"] {
+              traço: var(--az-glow) !importante;
+              largura do traço: 0,3px !importante;
+              acidente vascular cerebral-dasharray: 3 6 !importante;
+              opacidade: 0,4 !importante;
+            }
+
+            .octicon {
+              preencher: var(--az-glow) !importante;
+              filtro: sombra-projetada(0 0 4px #38bdf870) !importante;
+            }
+
+            retângulo.cor-vazio {
+              preenchimento: #0b1120 !importante;
+              acidente vascular cerebral: #38bdf810 !importante;
+              rx: 2,5px !importante;
+            }
+            rect.color-scale-1 {
+              preenchimento: #082f49 !importante;
+              rx: 2,5px !importante;
+            }
+            rect.color-scale-2 {
+              preenchimento: #0369a1 !importante;
+              rx: 2,5px !importante;
+              filtro: sombra-projetada(0 0 2px #0ea5e970) !importante;
+            }
+            rect.color-scale-3 {
+              preenchimento: #0ea5e9 !importante;
+              rx: 2,5px !importante;
+              filtro: sombra-projetada(0 0 4px #0ea5e990) !importante;
+            }
+            rect.color-scale-4 {
+              preenchimento: #7dd3fc !importante;
+              rx: 2,5px !importante;
+              filtro: sombra-projetada(0 0 7px #38bdf8cc) !importante;
+            }
+
+            .avatar círculo, imagem + círculo {
+              traço: var(--az-glow) !importante;
+              largura do traço: 1,8px !importante;
+              preenchimento: nenhum !importante;
+              filtro: sombra-projetada(0 0 10px #38bdf880) !importante;
+            }
+
+            círculo[classe*="idioma"] {
+              filtro: sombra-projetada(0 0 4px corAtual) !importante;
+            }
