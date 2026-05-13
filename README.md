@@ -1,128 +1,201 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0b1120,50:0ea5e9,75:38bdf8,100:7dd3fc&text=Lucas%20Neves&fontSize=50&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20•%20UI%2FUX%20Lover%20•%20Azzure%20Systems&descAlignY=58&descSize=18"/>
+
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020510,20:040d1f,50:0369a1,80:0ea5e9,100:38bdf8&text=LUCAS%20NEVES&fontSize=56&fontColor=f0f9ff&fontAlignY=36&animation=fadeIn&desc=◈%20Frontend%20Engineer%20◈%20UI%2FUX%20Architect%20◈%20Azzure%20Systems&descAlignY=57&descSize=16&descColor=7dd3fc&stroke=38bdf8&strokeWidth=1"/>
+
+<!-- TYPING BANNER -->
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Premium+Interfaces;React+%2B+TypeScript+Developer;Frontend+Engineer;Clean+Code+%2B+Modern+Experiences;Azzure+Infrastructure+Online"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=960&lines=◤+Building+Premium+Interfaces+◢;◤+React+%2B+TypeScript+Specialist+◢;◤+Clean+Code+%2B+Pixel-Perfect+UI+◢;◤+Azzure+Infrastructure+Online+◢;◤+Turning+Ideas+Into+Elegant+Products+◢"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/React-050816?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-050816?style=for-the-badge&logo=typescript&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Node.js-050816?style=for-the-badge&logo=node.js&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/GSAP-050816?style=for-the-badge&logo=greensock&logoColor=84CC16"/>
-<img src="https://img.shields.io/badge/Vite-050816?style=for-the-badge&logo=vite&logoColor=FACC15"/>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/REACT-020510?style=for-the-badge&logo=react&logoColor=38BDF8&labelColor=0b1120"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-020510?style=for-the-badge&logo=typescript&logoColor=38BDF8&labelColor=0b1120"/>
+<img src="https://img.shields.io/badge/NODE.JS-020510?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE&labelColor=0b1120"/>
+<img src="https://img.shields.io/badge/GSAP-020510?style=for-the-badge&logo=greensock&logoColor=84CC16&labelColor=0b1120"/>
+<img src="https://img.shields.io/badge/VITE-020510?style=for-the-badge&logo=vite&logoColor=FACC15&labelColor=0b1120"/>
+
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=lukaszwx&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+
+<!-- VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=lukaszwx&style=for-the-badge&color=0369a1&labelColor=020510&label=◈+PROFILE+VIEWS"/>
+
 </div>
----
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<br/>
+
+<!-- ABOUT -->
 <div align="center">
-⚡ Tech Arsenal
-<br/>
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-<br/><br/>
-<b>HTML5</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-<br/><br/>
-<b>CSS3</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-<br/><br/>
-<b>JavaScript</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
-<br/><br/>
-<b>TypeScript</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-<br/><br/>
-<b>React</b>
-</td>
-</tr>
-</table>
-<br/>
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<br/><br/>
-<b>Python</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-<br/><br/>
-<b>Java</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
-<br/><br/>
-<b>C</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-<br/><br/>
-<b>Git</b>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-<br/><br/>
-<b>VS Code</b>
-</td>
-</tr>
-</table>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     ◈  AZZURE.SYS v2.0  ◈                       ║
+║══════════════════════════════════════════════════════════════════║
+║  USER    » Lucas Neves                                           ║
+║  ROLE    » Frontend Engineer & UI/UX Architect                   ║
+║  STACK   » React · TypeScript · Node.js · GSAP                  ║
+║  FOCUS   » Premium Interfaces · Clean Code · Modern UX           ║
+║  STATUS  » [ ██████████████████████ ] ONLINE                     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
----
-<div align="center">
-📊 GitHub Analytics
+
 <br/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=E2E8F0"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<br/>
+
+<!-- TECH ARSENAL -->
+<div align="center">
+
+## ◈ &nbsp;TECH ARSENAL&nbsp; ◈
+
+<br/>
+
+**[ FRONTEND ]**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark&perline=8"/>
+
 <br/><br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&bg_color=050816&color=38BDF8&line=38BDF8&point=E2E8F0&area=true&hide_border=true&custom_title=Azzure%20Activity%20System"/>
-</div>
----
-<div align="center">
-🌌 Contribution Matrix
+
+**[ BACKEND & TOOLS ]**
+
 <br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,c,git,vscode,figma,github&theme=dark&perline=8"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<br/>
+
+<!-- GITHUB ANALYTICS -->
+<div align="center">
+
+## ◈ &nbsp;GITHUB ANALYTICS&nbsp; ◈
+
+<br/>
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=020510&title_color=38BDF8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=0369a1&count_private=true&include_all_commits=true"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=020510&title_color=38BDF8&text_color=cbd5e1&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lukaszwx&theme=transparent&hide_border=true&background=020510&ring=0ea5e9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7dd3fc&dates=64748b&stroke=0369a1&currStreakNum=f0f9ff&sideNums=e2e8f0"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&bg_color=020510&color=38BDF8&line=0369a1&point=38BDF8&area_color=0369a130&area=true&hide_border=true&custom_title=◈%20AZZURE%20COMMIT%20ACTIVITY%20◈&title_color=38BDF8"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<br/>
+
+<!-- CONTRIBUTION MATRIX -->
+<div align="center">
+
+## ◈ &nbsp;CONTRIBUTION MATRIX&nbsp; ◈
+
+<br/>
+
 <img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/Metrics.svg"/>
+
 </div>
----
-<div align="center">
-🚀 Current Focus
-</div>
+
 <br/>
 
-diff
-+ 🔭 Explorando React.js e TypeScript para projetos front-end modernos
-+ 🌱 Aprimorando JavaScript e Clean Code para back-end e Front-end sólido
-+ 💡 Me interesso em Arquitetura de Software
-+ 🚀 Construindo projetos elegantes e diferentes
-+ ✍️ Designer nas horas vagas
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
 
-
-<div align="center">
-💡 Featured Projects
-</div>
-Projeto	Descrição	Link
-✨ Portfólio Interativo	Landing page com animações GSAP e design responsivo	Repositório
-🏦 Sistema Bancário C	Sistema simples em C com cadastro, consulta e movimentações	Repositório
-📋 Gerenciador de Tarefas	App de tarefas com prioridade, remoção e marcação de concluídas	Repositório
-
-<div align="center">
-🌐 Contact & Socials
 <br/>
+
+<!-- CURRENT FOCUS -->
+<div align="center">
+
+## ◈ &nbsp;CURRENT FOCUS&nbsp; ◈
+
+</div>
+
+<br/>
+
+```diff
+@@                    ─── AZZURE SYSTEM LOG ───                    @@
+
++ [ACTIVE]   Explorando React.js e TypeScript para projetos front-end modernos
++ [ACTIVE]   Aprimorando JavaScript e Clean Code para back e front-end sólido
++ [ACTIVE]   Estudando Arquitetura de Software e Design Patterns
++ [ACTIVE]   Construindo projetos elegantes, diferentes e de alto impacto
++ [ACTIVE]   Designer nas horas vagas — UI/UX como forma de arte
+
+@@                    ─── END OF LOG ───                           @@
+```
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+
+## ◈ &nbsp;FEATURED PROJECTS&nbsp; ◈
+
+<br/>
+
+| &nbsp;&nbsp;◈&nbsp;&nbsp; Projeto | Descrição | Stack | Link |
+|:---|:---|:---|:---:|
+| **✦ Portfólio Interativo** | Landing page com animações GSAP e design responsivo de alto impacto | `React` `GSAP` `CSS` | [**→ Ver**](https://github.com/lukaszwx/landing-page) |
+| **✦ Sistema Bancário C** | Sistema com cadastro, consulta e movimentações financeiras em C puro | `C` `Estruturas` | [**→ Ver**](https://github.com/lukaszwx/sistema-bancario) |
+| **✦ Gerenciador de Tarefas** | App com prioridade, remoção e marcação — UX limpo e funcional | `JS` `HTML` `CSS` | [**→ Ver**](https://github.com/lukaszwx/gerenciador-tarefas) |
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
+
+<br/>
+
+<!-- CONTACT -->
+<div align="center">
+
+## ◈ &nbsp;CONTACT & SOCIALS&nbsp; ◈
+
+<br/>
+
 <a href="https://github.com/lukaszwx">
-  <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-020510?style=for-the-badge&logo=github&logoColor=f0f9ff&labelColor=0b1120"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-020510?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0b1120"/>
 </a>
-</div>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:050816,25:0b1120,50:0ea5e9,75:38bdf8,100:7dd3fc"/>
+<br/><br/>
+
+```
+[ AZZURE SYSTEMS — ONLINE ] ◈ [ OPEN TO OPPORTUNITIES ] ◈ [ LET'S BUILD SOMETHING GREAT ]
+```
+
+<br/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:38bdf8,30:0ea5e9,60:0369a1,85:040d1f,100:020510"/>
+
 </div>
