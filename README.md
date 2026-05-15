@@ -114,19 +114,7 @@
 <!-- CONTRIBUTION MATRIX -->
 <div align="center">
 
-## ◈ &nbsp;CONTRIBUTION MATRIX&nbsp; ◈
 
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/Metrics.svg"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
-
-<br/>
 
 <!-- CURRENT FOCUS -->
 <div align="center">
