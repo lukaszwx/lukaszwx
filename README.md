@@ -26,39 +26,79 @@
 
 <br/>
 
-<table align="center" width="92%">
+<div align="center">
+
+<table width="92%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### `whoami`
-
-```ts
-const lucas = {
-  role:     "Frontend Developer",
-  location: "Brazil 🇧🇷",
-  focus:    ["UI/UX", "Systems", "Performance"],
-  stack:    ["React", "Next.js", "TypeScript", "Node.js"],
-  learning: ["Rust", "WebGL", "Advanced Animations"],
-  goal:     "Build things that are both fast and beautiful",
-};
-```
+<table width="100%" cellspacing="0">
+  <tr>
+    <td colspan="2" align="left"><b>🧑‍💻 &nbsp; About Me</b></td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="30%" align="right"><sub>ROLE</sub></td>
+    <td><b>Frontend Developer</b></td>
+  </tr>
+  <tr>
+    <td align="right"><sub>LOCATION</sub></td>
+    <td>Brazil 🇧🇷</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>FOCUS</sub></td>
+    <td>UI/UX &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Performance</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>STACK</sub></td>
+    <td>React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node.js</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>LEARNING</sub></td>
+    <td>Rust &nbsp;·&nbsp; WebGL &nbsp;·&nbsp; Advanced Animations</td>
+  </tr>
+  <tr>
+    <td align="right"><sub>GOAL</sub></td>
+    <td><i>Build things that are both fast and beautiful</i></td>
+  </tr>
+</table>
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="5%"></td>
+<td width="40%" valign="top">
 
-### `./status`
-
-```yaml
-🔨 Building:   Personal projects
-📖 Studying:   System Design & CS
-🎯 Goal:       Junior → Mid-Level
-💬 Ask me:     React, CSS, APIs
-⚡ Fun fact:   Dark mode always
-```
+<table width="100%" cellspacing="0">
+  <tr>
+    <td colspan="2" align="left"><b>📡 &nbsp; Current Status</b></td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td width="12%">🔨</td>
+    <td><sub>BUILDING</sub>&nbsp; Personal projects</td>
+  </tr>
+  <tr>
+    <td>📖</td>
+    <td><sub>STUDYING</sub>&nbsp; System Design & CS</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><sub>GOAL</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior → Mid-Level</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><sub>ASK ME</sub>&nbsp; React, CSS, APIs</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><sub>FUN FACT</sub> Dark mode always</td>
+  </tr>
+</table>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
