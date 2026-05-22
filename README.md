@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,55:0369a1,80:0ea5e9,100:7dd3fc&text=Lucas%20Neves&fontSize=58&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20UI%20Enthusiast&descAlignY=58&descSize=17&descColor=bae6fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,55:0369a1,80:0ea5e9,100:7dd3fc&text=Lucas%20Neves&fontSize=60&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20UI%20Enthusiast&descAlignY=58&descSize=17&descColor=bae6fd"/>
 
 <br/>
 
@@ -24,47 +24,15 @@
 
 <br/>
 
+---
+
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="vite logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="50" alt="nodejs logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" alt="mongodb logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="prisma logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+## Tech Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,tailwind,nodejs,express,python,fastapi,mysql,sqlite,mongodb,prisma,supabase,git,github,vercel,vscode&theme=dark" />
 
 </div>
 
@@ -111,27 +79,23 @@
 
 ## GitHub Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukaszwx&theme=radical" height="150" alt="Profile details badge"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukaszwx&theme=radical" height="150" alt="Top languages by repo badge"/>
-
-</div>
-
 <br/>
 
-<div align="center">
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukaszwx&theme=tokyonight" alt="Profile details badge" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=7DD3FC&text_color=E0F2FE&border_radius=16" alt="GitHub Stats" />
+<br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E0F2FE&border_radius=16" alt="Top Languages" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukaszwx&theme=tokyonight" alt="Top languages by repo badge" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukaszwx&theme=tokyonight" alt="Top languages by commit badge" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lukaszwx&theme=tokyonight" alt="GitHub stats badge" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lukaszwx&theme=tokyonight&utcOffset=-3" alt="Productive time badge" />
 
-<div align="center">
+<br/><br/>
 
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com?user=lukaszwx&hide_border=true&background=020617&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=E0F2FE&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&theme=tokyo-night&hide_border=true&area=true&custom_title=Lucas%20Neves%20Contribution%20Graph" alt="Lucas Neves contribution graph" />
 
 </div>
 
@@ -142,6 +106,8 @@
 <div align="center">
 
 ## Contribution Flow
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/pacman-contribution-graph-dark.svg">
@@ -158,6 +124,8 @@
 <div align="center">
 
 ## Contact
+
+<br/>
 
 <a href="https://github.com/lukaszwx">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0f172a" alt="GitHub"/>
