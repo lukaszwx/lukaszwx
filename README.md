@@ -73,8 +73,7 @@
 
 ## GitHub Overview
 
-<img width="92%" src="./github-metrics.svg" alt="GitHub Metrics" />
-
+<img width="92%" src="/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br/>
