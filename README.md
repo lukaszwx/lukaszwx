@@ -6,18 +6,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=860&lines=Clean+interfaces%2C+beautiful+systems.;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Python;Code+with+structure.+Design+with+intention.;Turning+ideas+into+pixel-perfect+experiences."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=860&lines=Interfaces+limpas%2C+sistemas+bonitos.;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Python;C%C3%B3digo+com+estrutura.+Design+com+inten%C3%A7%C3%A3o.;Transformando+ideias+em+experi%C3%AAncias+pixel-perfect."/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukaszwx&style=for-the-badge&color=0284c7&labelColor=0c1a2e&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=lukaszwx&style=for-the-badge&color=0284c7&labelColor=0c1a2e&label=VISITAS"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/lukaszwx?style=for-the-badge&color=0284c7&labelColor=0c1a2e&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/lukaszwx?style=for-the-badge&color=0284c7&labelColor=0c1a2e&label=SEGUIDORES"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&labelColor=0c1a2e"/>
+  <img src="https://img.shields.io/badge/DISPONIVEL-PARA%20TRABALHO-22c55e?style=for-the-badge&labelColor=0c1a2e"/>
 </div>
 
 <br/>
@@ -28,75 +28,7 @@
 
 <div align="center">
 
-<table width="92%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-
-<table width="100%" cellspacing="0">
-  <tr>
-    <td colspan="2" align="left"><b>🧑‍💻 &nbsp; About Me</b></td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="30%" align="right"><sub>ROLE</sub></td>
-    <td><b>Frontend Developer</b></td>
-  </tr>
-  <tr>
-    <td align="right"><sub>LOCATION</sub></td>
-    <td>Brazil 🇧🇷</td>
-  </tr>
-  <tr>
-    <td align="right"><sub>FOCUS</sub></td>
-    <td>UI/UX &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Performance</td>
-  </tr>
-  <tr>
-    <td align="right"><sub>STACK</sub></td>
-    <td>React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node.js</td>
-  </tr>
-  <tr>
-    <td align="right"><sub>LEARNING</sub></td>
-    <td>Rust &nbsp;·&nbsp; WebGL &nbsp;·&nbsp; Advanced Animations</td>
-  </tr>
-  <tr>
-    <td align="right"><sub>GOAL</sub></td>
-    <td><i>Build things that are both fast and beautiful</i></td>
-  </tr>
-</table>
-
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top">
-
-<table width="100%" cellspacing="0">
-  <tr>
-    <td colspan="2" align="left"><b>📡 &nbsp; Current Status</b></td>
-  </tr>
-  <tr><td colspan="2"><hr/></td></tr>
-  <tr>
-    <td width="12%">🔨</td>
-    <td><sub>BUILDING</sub>&nbsp; Personal projects</td>
-  </tr>
-  <tr>
-    <td>📖</td>
-    <td><sub>STUDYING</sub>&nbsp; System Design & CS</td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td><sub>GOAL</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior → Mid-Level</td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td><sub>ASK ME</sub>&nbsp; React, CSS, APIs</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><sub>FUN FACT</sub> Dark mode always</td>
-  </tr>
-</table>
-
-</td>
-</tr>
-</table>
+<img width="92%" src="whoami.svg" alt="Lucas Neves — Sobre mim e Status"/>
 
 </div>
 
@@ -108,11 +40,11 @@
 
 <div align="center">
 
-### Tech Stack
+### Stack de Tecnologias
 
 <br/>
 
-**— Languages —**
+**— Linguagens —**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark&perline=5"/>
 
@@ -124,13 +56,13 @@
 
 <br/><br/>
 
-**— Backend & DB —**
+**— Backend e Banco de Dados —**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,mysql,sqlite,mongodb,supabase&theme=dark&perline=8"/>
 
 <br/><br/>
 
-**— Tools & Infra —**
+**— Ferramentas e Infraestrutura —**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,linux&theme=dark&perline=6"/>
 
@@ -144,30 +76,30 @@
 
 <div align="center">
 
-### Current Focus
+### Foco Atual
 
 <br/>
 
 <table width="92%">
   <tr>
-    <td align="center" width="25%" style="padding: 16px;">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/><br/>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40"/><br/><br/>
       <b>Frontend</b><br/>
       <sub>React · Next.js · TypeScript</sub>
     </td>
-    <td align="center" width="25%" style="padding: 16px;">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"/><br/>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40"/><br/><br/>
       <b>Backend</b><br/>
       <sub>Node.js · Python · REST APIs</sub>
     </td>
-    <td align="center" width="25%" style="padding: 16px;">
-      <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="40"/><br/>
-      <b>Database</b><br/>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="40"/><br/><br/>
+      <b>Banco de Dados</b><br/>
       <sub>SQLite · MySQL · MongoDB</sub>
     </td>
-    <td align="center" width="25%" style="padding: 16px;">
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40"/><br/>
-      <b>Creative UI</b><br/>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40"/><br/><br/>
+      <b>UI Criativa</b><br/>
       <sub>Motion · Design · UX</sub>
     </td>
   </tr>
@@ -183,29 +115,24 @@
 
 <div align="center">
 
-### GitHub Stats
+### GitHub
 
 <br/>
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukaszwx&theme=tokyonight" alt="Profile details"/>
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukaszwx&theme=tokyonight" alt="Detalhes do perfil"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=lukaszwx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&rank_icon=github&locale=pt-br"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&locale=pt-br"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukaszwx&theme=tokyonight" alt="Top languages by repo"/>
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lukaszwx&theme=tokyonight&utcOffset=-3" alt="Productive time"/>
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaszwx&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&locale=pt_BR" alt="Streak de contribuicoes"/>
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaszwx&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&theme=tokyo-night&hide_border=true&area=true&area_color=0ea5e9&color=38bdf8&line=0284c7&point=7dd3fc&custom_title=Contribution%20Graph%20%E2%80%94%20Lucas%20Neves" alt="Contribution graph"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&theme=tokyo-night&hide_border=true&area=true&area_color=0ea5e9&color=38bdf8&line=0284c7&point=7dd3fc&custom_title=Gr%C3%A1fico+de+Contribui%C3%A7%C3%B5es+%E2%80%94+Lucas+Neves" alt="Grafico de contribuicoes"/>
 
 </div>
 
@@ -217,14 +144,14 @@
 
 <div align="center">
 
-### Contribution Flow
+### Fluxo de Contribuições
 
 <br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/pacman-contribution-graph.svg">
-  <img width="100%" alt="Pacman contribution graph" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/pacman-contribution-graph-dark.svg">
+  <img width="100%" alt="Grafico de contribuicoes pacman" src="https://raw.githubusercontent.com/lukaszwx/lukaszwx/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 </div>
@@ -237,28 +164,28 @@
 
 <div align="center">
 
-### Let's Connect
+### Contato
 
 <br/>
 
 <a href="https://github.com/lukaszwx">
-  <img src="https://img.shields.io/badge/GitHub-0c1a2e?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0c1a2e"/>
 </a>
 &nbsp;
 <a href="mailto:lucasnevesdev0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0c1a2e?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0c1a2e"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/lukaszwx">
-  <img src="https://img.shields.io/badge/LinkedIn-0c1a2e?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0c1a2e"/>
 </a>
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Primeiro resolva o problema. Depois escreva o código."* — John Johnson
 
 <br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:38bdf8,30:0284c7,65:0c4a6e,100:020617&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:38bdf8,30:0284c7,65:0c4a6e,100:020617"/>
