@@ -1,0 +1,326 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320">
+  <defs>
+
+    <!-- Deep space background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#010b18"/>
+      <stop offset="100%" stop-color="#020d1f"/>
+    </linearGradient>
+
+    <!-- Card left -->
+    <linearGradient id="cardL" x1="0%" y1="0%" x2="130%" y2="100%">
+      <stop offset="0%"   stop-color="#0f2847" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#060f1e" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <!-- Card right -->
+    <linearGradient id="cardR" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0a1f38" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#040c18" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <!-- Accent lines fade -->
+    <linearGradient id="fadeH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="70%"  stop-color="#7dd3fc" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="fadeH2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="40%"  stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Vertical fade for side borders -->
+    <linearGradient id="fadeV" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#38bdf8" stop-opacity="0.7"/>
+      <stop offset="50%"  stop-color="#0ea5e9" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="fadeV2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="60%"  stop-color="#0ea5e9" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow radials inside cards -->
+    <radialGradient id="glowTL" cx="0%" cy="0%" r="70%">
+      <stop offset="0%"   stop-color="#0ea5e9" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBR" cx="100%" cy="100%" r="60%">
+      <stop offset="0%"   stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Large ambient orbs -->
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0369a1" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0284c7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Star field noise via turbulence -->
+    <filter id="stars">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="1" result="noise"/>
+      <feColorMatrix type="matrix"
+        values="0 0 0 0 0.22
+                0 0 0 0 0.62
+                0 0 0 0 0.97
+                0 0 0 18 -14" result="blue"/>
+      <feComposite in="blue" in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="blur6">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="blur2">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+    <filter id="blur1">
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+
+    <clipPath id="clipL">
+      <rect x="16" y="16" width="510" height="288" rx="18"/>
+    </clipPath>
+    <clipPath id="clipR">
+      <rect x="544" y="16" width="300" height="288" rx="18"/>
+    </clipPath>
+    <clipPath id="clipAll">
+      <rect width="860" height="320"/>
+    </clipPath>
+
+  </defs>
+
+  <g clip-path="url(#clipAll)">
+
+  <!-- ── BACKGROUND ── -->
+  <rect width="860" height="320" fill="url(#bg)"/>
+
+  <!-- Starfield texture -->
+  <rect width="860" height="320" fill="#fff" opacity="0.028" filter="url(#stars)"/>
+
+  <!-- Large ambient orbs -->
+  <ellipse cx="100" cy="80"  rx="200" ry="160" fill="url(#orb1)" opacity="0.09" filter="url(#softBlur)"/>
+  <ellipse cx="760" cy="250" rx="180" ry="140" fill="url(#orb2)" opacity="0.08" filter="url(#softBlur)"/>
+  <ellipse cx="430" cy="160" rx="120" ry="100" fill="#0ea5e9"    opacity="0.035" filter="url(#softBlur)"/>
+
+  <!-- Subtle horizontal scan lines -->
+  <rect width="860" height="1" y="80"  fill="#38bdf8" opacity="0.025"/>
+  <rect width="860" height="1" y="160" fill="#38bdf8" opacity="0.02"/>
+  <rect width="860" height="1" y="240" fill="#38bdf8" opacity="0.025"/>
+
+
+  <!-- ══════════════════════════════
+       LEFT CARD — SOBRE MIM
+  ══════════════════════════════ -->
+
+  <!-- Drop shadow -->
+  <rect x="20" y="22" width="510" height="288" rx="18" fill="#000" opacity="0.5" filter="url(#blur6)"/>
+
+  <!-- Card fill -->
+  <rect x="16" y="16" width="510" height="288" rx="18" fill="url(#cardL)"/>
+
+  <!-- Inner glow corners -->
+  <rect x="16" y="16" width="510" height="288" rx="18" fill="url(#glowTL)" clip-path="url(#clipL)"/>
+
+  <!-- Card border — thin, luminous -->
+  <rect x="16" y="16" width="510" height="288" rx="18" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.28"/>
+
+  <!-- TOP ACCENT — glowing line on top edge -->
+  <rect x="60"  y="16" width="380" height="1.5" rx="1" fill="url(#fadeH)"/>
+  <!-- Left border fade -->
+  <rect x="16"  y="30" width="1"   height="200" rx="1" fill="url(#fadeV)"/>
+
+  <!-- Corner brackets top-left -->
+  <path d="M16 46 L16 18 L46 18" fill="none" stroke="#38bdf8" stroke-width="1.4" stroke-linecap="round" opacity="0.7"/>
+  <!-- Corner brackets bottom-right -->
+  <path d="M494 300 L526 300 L526 272" fill="none" stroke="#38bdf8" stroke-width="1.4" stroke-linecap="round" opacity="0.35"/>
+
+  <!-- Section label -->
+  <text x="36" y="48"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8.5" font-weight="700"
+    fill="#38bdf8" letter-spacing="4" opacity="0.9">SOBRE MIM</text>
+
+  <!-- Divider -->
+  <rect x="36" y="56" width="472" height="0.5" fill="#38bdf8" opacity="0.12"/>
+
+  <!-- BIG NAME — visual anchor -->
+  <text x="36" y="100"
+    font-family="'JetBrains Mono', monospace"
+    font-size="28" font-weight="700"
+    fill="#f0f9ff" letter-spacing="-0.5" opacity="0.97">Lucas Neves</text>
+
+  <!-- Role tag -->
+  <rect x="36" y="110" width="162" height="22" rx="4" fill="#0ea5e9" opacity="0.12"/>
+  <rect x="36" y="110" width="162" height="22" rx="4" fill="none" stroke="#38bdf8" stroke-width="0.6" opacity="0.3"/>
+  <text x="44" y="125"
+    font-family="'JetBrains Mono', monospace"
+    font-size="9.5" font-weight="600"
+    fill="#7dd3fc" letter-spacing="1">Frontend Developer</text>
+
+  <!-- Thin separator -->
+  <rect x="36" y="144" width="200" height="0.5" fill="url(#fadeH)" opacity="0.4"/>
+
+  <!-- Data rows with glow dots -->
+  <!-- LOCALIZAÇÃO -->
+  <circle cx="44" cy="166" r="2.5" fill="#38bdf8" opacity="0.7"/>
+  <circle cx="44" cy="166" r="2.5" fill="#38bdf8" opacity="0.3" filter="url(#blur2)"/>
+  <text x="56" y="170"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8" fill="#334155" letter-spacing="1.2">LOCALIZAÇÃO</text>
+  <text x="175" y="170"
+    font-family="'JetBrains Mono', monospace"
+    font-size="10.5" fill="#94a3b8">Brasil</text>
+
+  <!-- FOCO -->
+  <circle cx="44" cy="194" r="2.5" fill="#38bdf8" opacity="0.7"/>
+  <circle cx="44" cy="194" r="2.5" fill="#38bdf8" opacity="0.3" filter="url(#blur2)"/>
+  <text x="56" y="198"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8" fill="#334155" letter-spacing="1.2">FOCO</text>
+  <text x="175" y="198"
+    font-family="'JetBrains Mono', monospace"
+    font-size="10.5" fill="#94a3b8">UI/UX · Sistemas · Performance</text>
+
+  <!-- STACK -->
+  <circle cx="44" cy="222" r="2.5" fill="#38bdf8" opacity="0.7"/>
+  <circle cx="44" cy="222" r="2.5" fill="#38bdf8" opacity="0.3" filter="url(#blur2)"/>
+  <text x="56" y="226"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8" fill="#334155" letter-spacing="1.2">STACK</text>
+  <text x="175" y="226"
+    font-family="'JetBrains Mono', monospace"
+    font-size="10.5" fill="#94a3b8">React · Next.js · TypeScript · Node.js</text>
+
+  <!-- APRENDENDO -->
+  <circle cx="44" cy="250" r="2.5" fill="#38bdf8" opacity="0.7"/>
+  <circle cx="44" cy="250" r="2.5" fill="#38bdf8" opacity="0.3" filter="url(#blur2)"/>
+  <text x="56" y="254"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8" fill="#334155" letter-spacing="1.2">APRENDENDO</text>
+  <text x="175" y="254"
+    font-family="'JetBrains Mono', monospace"
+    font-size="10.5" fill="#94a3b8">Rust · WebGL · Animações Avançadas</text>
+
+  <!-- OBJETIVO — destaque em sky -->
+  <circle cx="44" cy="278" r="2.5" fill="#7dd3fc" opacity="0.9"/>
+  <circle cx="44" cy="278" r="3.5" fill="#7dd3fc" opacity="0.2" filter="url(#blur1)"/>
+  <text x="56" y="282"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8" fill="#334155" letter-spacing="1.2">OBJETIVO</text>
+  <text x="175" y="282"
+    font-family="'JetBrains Mono', monospace"
+    font-size="10.5" font-style="italic" fill="#7dd3fc">Construir coisas rápidas e bonitas</text>
+
+
+  <!-- ══════════════════════════════
+       RIGHT CARD — STATUS
+  ══════════════════════════════ -->
+
+  <!-- Drop shadow -->
+  <rect x="548" y="22" width="300" height="288" rx="18" fill="#000" opacity="0.5" filter="url(#blur6)"/>
+
+  <!-- Card fill -->
+  <rect x="544" y="16" width="300" height="288" rx="18" fill="url(#cardR)"/>
+  <rect x="544" y="16" width="300" height="288" rx="18" fill="url(#glowBR)" clip-path="url(#clipR)"/>
+
+  <!-- Card border -->
+  <rect x="544" y="16" width="300" height="288" rx="18" fill="none" stroke="#38bdf8" stroke-width="0.75" opacity="0.22"/>
+
+  <!-- Top accent -->
+  <rect x="580" y="16" width="220" height="1.5" rx="1" fill="url(#fadeH2)"/>
+  <!-- Right border fade -->
+  <rect x="843" y="30" width="1" height="180" rx="1" fill="url(#fadeV2)"/>
+
+  <!-- Corner brackets top-right -->
+  <path d="M814 18 L842 18 L842 46" fill="none" stroke="#38bdf8" stroke-width="1.4" stroke-linecap="round" opacity="0.6"/>
+  <!-- Corner brackets bottom-left -->
+  <path d="M544 272 L544 300 L572 300" fill="none" stroke="#38bdf8" stroke-width="1.4" stroke-linecap="round" opacity="0.3"/>
+
+  <!-- Section label + online dot -->
+  <text x="564" y="48"
+    font-family="'JetBrains Mono', monospace"
+    font-size="8.5" font-weight="700"
+    fill="#38bdf8" letter-spacing="4" opacity="0.9">STATUS</text>
+
+  <!-- Online indicator -->
+  <circle cx="828" cy="44" r="6"   fill="#22c55e" opacity="0.12"/>
+  <circle cx="828" cy="44" r="3.5" fill="#22c55e" opacity="0.95"/>
+  <circle cx="828" cy="44" r="3.5" fill="#22c55e" opacity="0.4" filter="url(#blur2)"/>
+
+  <!-- Divider -->
+  <rect x="564" y="56" width="272" height="0.5" fill="#38bdf8" opacity="0.1"/>
+
+  <!-- Status items — each with label + value stacked -->
+
+  <!-- CONSTRUINDO -->
+  <rect x="564" y="70" width="3" height="32" rx="1.5" fill="#38bdf8" opacity="0.5"/>
+  <text x="578" y="83"
+    font-family="'JetBrains Mono', monospace"
+    font-size="7.5" fill="#334155" letter-spacing="1.5">CONSTRUINDO</text>
+  <text x="578" y="97"
+    font-family="'JetBrains Mono', monospace"
+    font-size="11" font-weight="600" fill="#e2e8f0">Projetos pessoais</text>
+
+  <!-- Separator -->
+  <rect x="578" y="112" width="240" height="0.4" fill="#38bdf8" opacity="0.08"/>
+
+  <!-- ESTUDANDO -->
+  <rect x="564" y="120" width="3" height="32" rx="1.5" fill="#38bdf8" opacity="0.5"/>
+  <text x="578" y="133"
+    font-family="'JetBrains Mono', monospace"
+    font-size="7.5" fill="#334155" letter-spacing="1.5">ESTUDANDO</text>
+  <text x="578" y="147"
+    font-family="'JetBrains Mono', monospace"
+    font-size="11" font-weight="600" fill="#e2e8f0">System Design &amp; CS</text>
+
+  <!-- Separator -->
+  <rect x="578" y="162" width="240" height="0.4" fill="#38bdf8" opacity="0.08"/>
+
+  <!-- META -->
+  <rect x="564" y="170" width="3" height="32" rx="1.5" fill="#38bdf8" opacity="0.5"/>
+  <text x="578" y="183"
+    font-family="'JetBrains Mono', monospace"
+    font-size="7.5" fill="#334155" letter-spacing="1.5">META</text>
+  <text x="578" y="197"
+    font-family="'JetBrains Mono', monospace"
+    font-size="11" font-weight="600" fill="#e2e8f0">Junior  →  Mid-Level</text>
+
+  <!-- Separator -->
+  <rect x="578" y="212" width="240" height="0.4" fill="#38bdf8" opacity="0.08"/>
+
+  <!-- PERGUNTE -->
+  <rect x="564" y="220" width="3" height="32" rx="1.5" fill="#7dd3fc" opacity="0.6"/>
+  <text x="578" y="233"
+    font-family="'JetBrains Mono', monospace"
+    font-size="7.5" fill="#334155" letter-spacing="1.5">PERGUNTE SOBRE</text>
+  <text x="578" y="247"
+    font-family="'JetBrains Mono', monospace"
+    font-size="11" font-weight="600" fill="#7dd3fc">React  ·  CSS  ·  APIs</text>
+
+  <!-- Separator -->
+  <rect x="578" y="262" width="240" height="0.4" fill="#38bdf8" opacity="0.08"/>
+
+  <!-- CURIOSIDADE -->
+  <rect x="564" y="270" width="3" height="32" rx="1.5" fill="#38bdf8" opacity="0.35"/>
+  <text x="578" y="283"
+    font-family="'JetBrains Mono', monospace"
+    font-size="7.5" fill="#334155" letter-spacing="1.5">CURIOSIDADE</text>
+  <text x="578" y="297"
+    font-family="'JetBrains Mono', monospace"
+    font-size="11" font-weight="600" fill="#94a3b8">Dark mode sempre</text>
+
+  </g>
+</svg>
