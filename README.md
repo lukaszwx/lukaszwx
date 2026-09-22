@@ -166,7 +166,7 @@ disponível   = sim
 
 <br/><br/>
 
-> *"Primeiro resolva o problema. Depois escreva o código."*
+> *"pois é...né."*
 
 </div>
 
