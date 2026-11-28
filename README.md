@@ -19,8 +19,10 @@ I build web and mobile applications with JavaScript and TypeScript. My projects 
 
 ## Education
 
-My academic projects include AutoPrime Garage, developed as part of a mobile development course.
+**Análise e Desenvolvimento de Sistemas** — UNINASSAU, conclusão prevista para dezembro de 2026.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/lukaszwx) · [Email](mailto:lucasnevesdev0@gmail.com) · [Portfolio source](https://github.com/lukaszwx/my-portfolio)
+Disponível para oportunidades de desenvolvimento júnior.
+
+[LinkedIn](https://www.linkedin.com/in/lucas-neves-87888a404) | [Email](mailto:lukas.enginer7@gmail.com)
